@@ -29,7 +29,7 @@
 				}
 				
 			}
-			echo"<center><form method='post' action='index1.php'>
+			echo"<center><form method='post' action='index.php'>
 			<input type='text' name='bil1' placeholder='Bilangan 1'><br><br>
 			<input type='text' name='bil2' placeholder='Bilangan 2'><br><br>
 			<input type='text' name='bil3' placeholder='Bilangan 3'><br><br>
